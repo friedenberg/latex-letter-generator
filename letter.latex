@@ -1,0 +1,19 @@
+\documentclass[letter]{letter}
+
+\usepackage[tmargin=0.5in,textwidth=5in]{geometry} \usepackage{ragged2e}
+
+\signature{SENDER}
+
+\begin{document}
+
+\RaggedRight
+
+\begin{letter}{RETURN ADDRESS}
+
+  \opening{OPENING}
+
+  \closing{Yours,}
+
+\end{letter}
+
+\end{document}
