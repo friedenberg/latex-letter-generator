@@ -290,6 +290,7 @@ TSWLatexianTemp*
 *.cb2
 .*.lb
 
+result
 build/
 .DS_Store
 
